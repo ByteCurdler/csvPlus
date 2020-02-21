@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: csv-plus-ILikePython256
+Version: 0.0.1
+Summary: A wrapper for the default `csv` library.
+Home-page: https://github.com/ILikePython256/csvPlus
+Author: ILikePython256
+License: UNKNOWN
+Description: # CSV+
+        A wrapper for the default `csv` library.
+        ## Usage
+        ```python3
+        import csvPlus as csv
+        csv.read(open("example.csv"), headers=True)
+        csv.write(open("example.csv", "w"), data=somedata)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU LGPL 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,7 @@
+README.md
+setup.py
+csvPlus/__init__.py
+csv_plus_ILikePython256.egg-info/PKG-INFO
+csv_plus_ILikePython256.egg-info/SOURCES.txt
+csv_plus_ILikePython256.egg-info/dependency_links.txt
+csv_plus_ILikePython256.egg-info/top_level.txt
